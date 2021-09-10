@@ -1,0 +1,41 @@
+h1{
+    color:aqua
+    }
+    p,h2{
+      text-align: center;
+    color: rgb(60, 255, 0)    ;
+    }
+
+ 
+  .header{
+ 
+background-color: rgb(165, 63, 165);
+display:flex;
+justify-content:space-between;
+font-style: italic;
+font-size: 35px;
+border:solid;
+padding-left: 10px;
+margin-top: 1%;
+  }
+  .grid{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+  }
+  .footer{
+display: flex;
+justify-content: flex-end;
+
+
+
+  }
+  body{
+
+background-color: #808080; 
+
+
+  }
+    
